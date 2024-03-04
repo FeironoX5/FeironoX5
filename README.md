@@ -1,7 +1,6 @@
 <div align="center">
   <br>
   <br>
-  <br>
   <p>👋🏻 I'm Gleb, designer&developer from Moscow, Russia.</p>
     <p>
     <a href="https://t.me/lostinwinelands"><img width="18" height="18" fill="white" src="https://www.svgrepo.com/show/452115/telegram.svg" /></a>
