@@ -1,2 +1,1 @@
-<h1 align="center">yup im gleb kiva</h1>
-<h3 align="center">des&dev from Russia 🇷🇺</h3>
+![](https://media1.tenor.com/m/0Iy4lQLTKa0AAAAC/twin-peaks-thumbs-up.gif)
