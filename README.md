@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <br>
-  <p>👋🏻 I'm Gleb, designer&developer from Moscow, Russia.</p>
+  <p>👋🏻 I'm Gleb, designer&developer from Moscow, Russia</p>
     <p>
     <img src="https://img.shields.io/github/issues/FeironoX5/FeironoX5?style=plastic">
     <img src="https://img.shields.io/github/stars/FeironoX5?style=plastic">
