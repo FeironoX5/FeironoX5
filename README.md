@@ -1,3 +1,8 @@
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/FeironoX5/FeironoX5)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/FeironoX5)
+![GitHub followers](https://img.shields.io/github/followers/FeironoX5)
+![GitHub User's stars](https://img.shields.io/github/stars/FeironoX5)
+
 <div align="center">
   <br>
   <br>
