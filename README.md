@@ -3,7 +3,7 @@
   <br>
   <p>👋🏻 I'm Gleb, designer&developer from Moscow, Russia</p>
     <p>
-    <img src="https://img.shields.io/github/issues/FeironoX5/FeironoX5?style=plastic">
+    <a href="https://github.com/FeironoX5/FeironoX5/issues"><img src="https://img.shields.io/github/issues/FeironoX5/FeironoX5?style=plastic"></a>
     <img src="https://img.shields.io/github/stars/FeironoX5?style=plastic">
     <img src="https://img.shields.io/github/followers/FeironoX5?style=plastic">
     <img src="https://img.shields.io/github/sponsors/FeironoX5?style=plastic">
