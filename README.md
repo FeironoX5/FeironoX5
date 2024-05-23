@@ -6,7 +6,7 @@
     <a href="https://github.com/FeironoX5/FeironoX5/issues"><img src="https://img.shields.io/github/issues/FeironoX5/FeironoX5?style=plastic"></a>
     <img src="https://img.shields.io/github/stars/FeironoX5?style=plastic">
     <img src="https://img.shields.io/github/followers/FeironoX5?style=plastic">
-    <img src="https://img.shields.io/github/sponsors/FeironoX5?style=plastic">
+    <a href="https://wakatime.com/@018f01a2-ed41-47f3-a392-df5fbe938bda"><img src="https://wakatime.com/badge/user/018f01a2-ed41-47f3-a392-df5fbe938bda.svg" alt="Total time coded since Apr 21 2024" /></a>
     <br><br>
     <a href="https://t.me/lostinwinelands"><img width="18" height="18" fill="white" src="https://www.svgrepo.com/show/452115/telegram.svg" /></a>
     <a href="https://vk.com/feironox5"><img width="18" height="18" src="https://www.svgrepo.com/show/303449/vk-1-logo.svg" /></a>
